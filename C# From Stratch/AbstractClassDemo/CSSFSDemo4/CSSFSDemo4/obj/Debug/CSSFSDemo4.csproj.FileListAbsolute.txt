@@ -1,0 +1,6 @@
+c:\users\louise.braddick\documents\visual studio 2015\Projects\CSSFSDemo4\CSSFSDemo4\bin\Debug\CSSFSDemo4.exe.config
+c:\users\louise.braddick\documents\visual studio 2015\Projects\CSSFSDemo4\CSSFSDemo4\bin\Debug\CSSFSDemo4.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\CSSFSDemo4\CSSFSDemo4\bin\Debug\CSSFSDemo4.pdb
+c:\users\louise.braddick\documents\visual studio 2015\Projects\CSSFSDemo4\CSSFSDemo4\obj\Debug\CSSFSDemo4.csprojResolveAssemblyReference.cache
+c:\users\louise.braddick\documents\visual studio 2015\Projects\CSSFSDemo4\CSSFSDemo4\obj\Debug\CSSFSDemo4.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\CSSFSDemo4\CSSFSDemo4\obj\Debug\CSSFSDemo4.pdb
