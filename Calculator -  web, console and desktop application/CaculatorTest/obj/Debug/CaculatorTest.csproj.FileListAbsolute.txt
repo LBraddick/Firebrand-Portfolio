@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorTest\bin\Debug\CaculatorTest.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorTest\bin\Debug\CaculatorTest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorTest\bin\Debug\CaculatorLibary.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorTest\bin\Debug\CaculatorLibary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorTest\obj\Debug\CaculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorTest\obj\Debug\CaculatorTest.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorTest\obj\Debug\CaculatorTest.pdb
