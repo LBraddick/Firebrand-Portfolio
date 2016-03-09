@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorWebApplication\obj\Debug\CaculatorWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorWebApplication\bin\CaculatorWebApplication.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorWebApplication\bin\CaculatorWebApplication.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorWebApplication\bin\CaculatorWebApplication.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorWebApplication\bin\CaculatorLibary.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorWebApplication\bin\CaculatorLibary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorWebApplication\obj\Debug\CaculatorWebApplication.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CaculatorWebApplication\obj\Debug\CaculatorWebApplication.pdb
