@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CalConsole\bin\Debug\CalConsole.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CalConsole\bin\Debug\CalConsole.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CalConsole\bin\Debug\CalConsole.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CalConsole\obj\Debug\CalConsole.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CalConsole\obj\Debug\CalConsole.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CalConsole\obj\Debug\CalConsole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CalConsole\bin\Debug\CaculatorLibary.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\CalConsole\bin\Debug\CaculatorLibary.pdb
