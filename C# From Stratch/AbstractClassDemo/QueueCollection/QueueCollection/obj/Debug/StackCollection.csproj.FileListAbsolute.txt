@@ -1,0 +1,2 @@
+c:\users\louise.braddick\documents\visual studio 2015\Projects\QueueCollection\QueueCollection\obj\Debug\QueueCollection.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\QueueCollection\QueueCollection\obj\Debug\QueueCollection.pdb

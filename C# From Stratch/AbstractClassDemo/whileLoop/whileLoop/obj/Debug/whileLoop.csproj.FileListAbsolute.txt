@@ -1,0 +1,6 @@
+c:\users\louise.braddick\documents\visual studio 2015\Projects\whileLoop\whileLoop\bin\Debug\whileLoop.exe.config
+c:\users\louise.braddick\documents\visual studio 2015\Projects\whileLoop\whileLoop\bin\Debug\whileLoop.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\whileLoop\whileLoop\bin\Debug\whileLoop.pdb
+c:\users\louise.braddick\documents\visual studio 2015\Projects\whileLoop\whileLoop\obj\Debug\whileLoop.csprojResolveAssemblyReference.cache
+c:\users\louise.braddick\documents\visual studio 2015\Projects\whileLoop\whileLoop\obj\Debug\whileLoop.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\whileLoop\whileLoop\obj\Debug\whileLoop.pdb

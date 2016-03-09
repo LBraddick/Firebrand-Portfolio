@@ -1,0 +1,6 @@
+c:\users\louise.braddick\documents\visual studio 2015\Projects\QueueCollection\QueueCollection\bin\Debug\QueueCollection.exe.config
+c:\users\louise.braddick\documents\visual studio 2015\Projects\QueueCollection\QueueCollection\bin\Debug\QueueCollection.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\QueueCollection\QueueCollection\bin\Debug\QueueCollection.pdb
+c:\users\louise.braddick\documents\visual studio 2015\Projects\QueueCollection\QueueCollection\obj\Debug\QueueCollection.csprojResolveAssemblyReference.cache
+c:\users\louise.braddick\documents\visual studio 2015\Projects\QueueCollection\QueueCollection\obj\Debug\QueueCollection.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\QueueCollection\QueueCollection\obj\Debug\QueueCollection.pdb
