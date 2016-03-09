@@ -1,0 +1,6 @@
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Class\Class\bin\Debug\Class.exe.config
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Class\Class\bin\Debug\Class.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Class\Class\bin\Debug\Class.pdb
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Class\Class\obj\Debug\Class.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Class\Class\obj\Debug\Class.pdb
