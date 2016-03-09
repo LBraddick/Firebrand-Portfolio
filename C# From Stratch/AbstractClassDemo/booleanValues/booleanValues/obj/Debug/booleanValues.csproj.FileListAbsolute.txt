@@ -1,0 +1,6 @@
+c:\users\louise.braddick\documents\visual studio 2015\Projects\booleanValues\booleanValues\bin\Debug\booleanValues.exe.config
+c:\users\louise.braddick\documents\visual studio 2015\Projects\booleanValues\booleanValues\bin\Debug\booleanValues.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\booleanValues\booleanValues\bin\Debug\booleanValues.pdb
+c:\users\louise.braddick\documents\visual studio 2015\Projects\booleanValues\booleanValues\obj\Debug\booleanValues.csprojResolveAssemblyReference.cache
+c:\users\louise.braddick\documents\visual studio 2015\Projects\booleanValues\booleanValues\obj\Debug\booleanValues.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\booleanValues\booleanValues\obj\Debug\booleanValues.pdb
