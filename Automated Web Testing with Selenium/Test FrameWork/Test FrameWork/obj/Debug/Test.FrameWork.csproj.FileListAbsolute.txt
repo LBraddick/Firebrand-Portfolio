@@ -1,0 +1,9 @@
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Test FrameWork\Test FrameWork\bin\Debug\Test FrameWork.dll
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Test FrameWork\Test FrameWork\bin\Debug\Test FrameWork.pdb
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Test FrameWork\Test FrameWork\bin\Debug\WebDriver.dll
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Test FrameWork\Test FrameWork\bin\Debug\WebDriver.Support.dll
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Test FrameWork\Test FrameWork\bin\Debug\WebDriver.xml
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Test FrameWork\Test FrameWork\bin\Debug\WebDriver.Support.xml
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Test FrameWork\Test FrameWork\obj\Debug\Test FrameWork.csprojResolveAssemblyReference.cache
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Test FrameWork\Test FrameWork\obj\Debug\Test FrameWork.dll
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Test FrameWork\Test FrameWork\obj\Debug\Test FrameWork.pdb
