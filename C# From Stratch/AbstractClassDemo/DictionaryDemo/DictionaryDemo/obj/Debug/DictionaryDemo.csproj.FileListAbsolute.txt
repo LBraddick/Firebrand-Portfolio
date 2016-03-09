@@ -1,0 +1,6 @@
+c:\users\louise.braddick\documents\visual studio 2015\Projects\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+c:\users\louise.braddick\documents\visual studio 2015\Projects\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+c:\users\louise.braddick\documents\visual studio 2015\Projects\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csprojResolveAssemblyReference.cache
+c:\users\louise.braddick\documents\visual studio 2015\Projects\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+c:\users\louise.braddick\documents\visual studio 2015\Projects\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.pdb

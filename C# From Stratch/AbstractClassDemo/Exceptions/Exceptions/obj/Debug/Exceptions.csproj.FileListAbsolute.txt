@@ -1,0 +1,2 @@
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+c:\users\louise.braddick\documents\visual studio 2015\Projects\Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
